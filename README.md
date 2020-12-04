@@ -1,2 +1,2 @@
 # mongoDB-hexagonal
-architecture hexagonal, mongoDB, TDD
+architecture hexagonal, mongoDB, TDD, Spring Data
